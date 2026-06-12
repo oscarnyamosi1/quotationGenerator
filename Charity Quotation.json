@@ -1,0 +1,63 @@
+{
+  "id": "7593f24b-4758-43af-a090-29280fdc6d95",
+  "createdAt": "2026-06-12T12:23:26.208Z",
+  "updatedAt": "2026-06-12T12:30:11.336Z",
+  "quotationNumber": 1,
+  "status": "draft",
+  "client": {
+    "name": "Charity",
+    "phone": "",
+    "address": "Manga, Kisii",
+    "eventType": "Ekerorano / Ruracio",
+    "eventDate": "",
+    "venue": "",
+    "guestCount": 0
+  },
+  "menu": [
+    {
+      "title": "Proposed Menu",
+      "items": [
+        "Chapo",
+        "Pilau",
+        "Vegetable Rice",
+        "Barbeque Chicken",
+        "Beef Stew",
+        "Goat Fry",
+        "Brown Ugali - Very Small Quantity for the Elders (50 pax)",
+        "Managu",
+        "Mixed Veggies / Cabbage",
+        "Kachumbari",
+        "Coleslaw / Pineapple Carrot Salad",
+        "Mandazi & Tea - (4 O`clock Tea)",
+        "Fruits - Pineapple & Watermelon"
+      ]
+    }
+  ],
+  "costs": {
+    "shoppingCost": 0,
+    "transportCost": 6000,
+    "labourCost": 0,
+    "equipmentCost": 0,
+    "cateringFee": 56000,
+    "extraCost": 0,
+    "total": 62000
+  },
+  "payment": {
+    "depositPercent": 75,
+    "balancePercent": 25,
+    "mpesaPaybill": "542542",
+    "mpesaAccount": "28812"
+  },
+  "terms": [
+    "Deposit is non-refundable once booking is confirmed",
+    "Final guest count must be confirmed at least 3 days before the event",
+    "Additional services will incur extra charges",
+    "Client must ensure venue access and utilities",
+    "Company not liable for external delays"
+  ],
+  "signatures": {
+    "clientName": "Charity",
+    "companyRepresentative": ""
+  },
+  "templateId": "default"
+}

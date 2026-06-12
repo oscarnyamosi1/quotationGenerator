@@ -1,0 +1,81 @@
+{
+  "id": "0894c37a-41cb-48db-bf2a-0d14717339d3",
+  "createdAt": "2026-06-11T19:21:03.475Z",
+  "updatedAt": "2026-06-11T19:24:38.186Z",
+  "quotationNumber": 1,
+  "status": "confirmed",
+  "client": {
+    "name": "oscar nyamosi",
+    "phone": "+254795404843",
+    "address": "Nairobi",
+    "eventType": "Ruracio",
+    "eventDate": "2026-06-25",
+    "venue": "Manga",
+    "guestCount": 200
+  },
+  "menu": [
+    {
+      "title": "Breakfast",
+      "items": [
+        "mandazi",
+        "chapo",
+        "chai"
+      ]
+    },
+    {
+      "title": "Lunch",
+      "items": [
+        "Chicken Broth"
+      ]
+    },
+    {
+      "title": "Vegetables",
+      "items": [
+        "Carrots",
+        "Cabbage",
+        "Salad"
+      ]
+    },
+    {
+      "title": "Drinks & Fruits",
+      "items": [
+        "Soda",
+        "Chilled Juice"
+      ]
+    },
+    {
+      "title": "Salads",
+      "items": [
+        "Kachumbari",
+        "Coleslaw"
+      ]
+    }
+  ],
+  "costs": {
+    "shoppingCost": 12000,
+    "transportCost": 6000,
+    "labourCost": 12000,
+    "equipmentCost": 12000,
+    "cateringFee": 0,
+    "extraCost": 0,
+    "total": 42000
+  },
+  "payment": {
+    "depositPercent": 75,
+    "balancePercent": 25,
+    "mpesaPaybill": "542542",
+    "mpesaAccount": "28812"
+  },
+  "terms": [
+    "Deposit is non-refundable once booking is confirmed",
+    "Final guest count must be confirmed at least 3 days before the event",
+    "Additional services will incur extra charges",
+    "Client must ensure venue access and utilities",
+    "Company not liable for external delays"
+  ],
+  "signatures": {
+    "clientName": "Kiagali",
+    "companyRepresentative": "BenkizBakers"
+  },
+  "templateId": "default"
+}
